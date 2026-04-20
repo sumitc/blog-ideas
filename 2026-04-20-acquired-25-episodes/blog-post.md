@@ -1,4 +1,4 @@
-# Acquired — 25 Episodes in Less Than 2 Months! 🎙️
+# Acquired.fm — 25 Episodes in Less Than 2 Months! 🎙️
 
 *How a podcast recommendation in Redmond turned into the most addictive learning binge of my year.*
 
