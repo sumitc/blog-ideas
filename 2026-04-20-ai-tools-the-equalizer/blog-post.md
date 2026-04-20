@@ -1,6 +1,6 @@
 # AI Tools: The New Equalizer — Why Human Creativity Is the Only Moat Left 🧠
 
-*What judging a product competition at IIT Hyderabad taught me about the real impact of AI on differentiation.*
+> *What judging a product competition at IIT Hyderabad taught me about the real impact of AI on differentiation.*
 
 ---
 
@@ -22,7 +22,9 @@ At first, I thought it was coincidence. Then it hit me.
 
 **They were all using AI tools.**
 
-![Illustration: Seven presentation screens side by side, all showing remarkably similar charts and bullet points, with subtle AI tool logos in the corner](images/similar-presentations.png)
+**[IMAGE: Seven presentation screens side by side, all showing remarkably similar charts and bullet points]**
+
+---
 
 ## The Great Equalizer
 
@@ -46,13 +48,16 @@ But they did something the AI didn't suggest. They made a **creative leap** — 
 
 Not the best analysis. Not the most polished slides. The most *original thinking on top of the AI baseline.*
 
-![Illustration: A pyramid — large base labeled "AI-Generated Baseline (Same for Everyone)" in blue, narrow top section labeled "Human Creativity (The Differentiator)" glowing in gold](images/creativity-pyramid.png)
+**[IMAGE: A pyramid — large base labeled "AI-Generated Baseline" in blue, narrow top section labeled "Human Creativity" glowing in gold]**
+
+---
 
 ## What This Means for All of Us
 
 This isn't just a college competition insight. This is the future of work, playing out in real time.
 
 In a world where everyone has access to the same AI:
+
 - **Your competitive analysis won't differentiate you** — everyone's running the same prompts
 - **Your strategy frameworks won't differentiate you** — AI makes everyone a strategist
 - **Your polished deliverables won't differentiate you** — AI makes everyone look professional
@@ -60,8 +65,11 @@ In a world where everyone has access to the same AI:
 What *will* differentiate you:
 
 1. **The questions you ask** — AI answers questions beautifully. But asking the *right* question? That's still deeply human.
+
 2. **The creative leaps you make** — connecting dots across unrelated domains, finding the non-obvious angle.
+
 3. **Your lived experience** — your unique perspective shaped by your journey, your failures, your weird hobbies, your culture.
+
 4. **The courage to go against the obvious** — when AI gives you the "safe" answer, daring to propose the bold one.
 
 ---
@@ -76,10 +84,12 @@ The seven teams at IIT Hyderabad all had the same tools. Only one had the courag
 
 **In the age of AI, human creativity isn't just an advantage — it's the only moat left.**
 
-![Illustration: A person standing on a platform of AI tool logos (ChatGPT, Copilot, Gemini), reaching up toward a bright lightbulb above — representing the creative leap beyond AI](images/human-above-ai.png)
+**[IMAGE: A person standing on a platform of AI tool logos, reaching up toward a glowing lightbulb above]**
 
 ---
 
 *Grateful to IIT Hyderabad, The Product Folks, and my fellow judges Ruturaj Dhekane and Mohan Kosuri for a memorable day. And to those 4,000+ students — keep building. The AI gives you the foundation. The rest is up to you.*
 
-#AI #ProductManagement #Creativity #Innovation #IITHyderabad #Leadership #FutureOfWork
+---
+
+*Tags: Artificial Intelligence, Product Management, Creativity, Innovation, Leadership, Future of Work*

@@ -1,6 +1,6 @@
-# Acquired.fm — 25 Episodes in Less Than 2 Months! 🎙️
+# Acquired — 25 Episodes in Less Than 2 Months! 🎙️
 
-*How a podcast recommendation in Redmond turned into the most addictive learning binge of my year.*
+> *How a podcast recommendation in Redmond turned into the most addictive learning binge of my year.*
 
 ---
 
@@ -8,7 +8,7 @@ It started with a casual hallway conversation.
 
 Late February, I was visiting the Microsoft campus in Redmond, Washington. Between meetings, a colleague said something that would quietly reshape my commutes, workouts, and dishwashing sessions for the next two months:
 
-*"Have you listened to Acquired? It's a Seattle based podcast. You'd love it."*
+*"Have you listened to Acquired? It's a Seattle podcast. You'd love it."*
 
 I pulled it up that evening. Episode 1. Hit play.
 
@@ -20,8 +20,11 @@ Two months and **25 episodes later**, I'm writing this as a thoroughly converted
 
 [Acquired.fm](https://acquired.fm) is a podcast by Ben Gilbert and David Rosenthal that tells the stories behind the world's greatest companies and acquisitions. Based right here in Seattle, these two do something rare: they combine the depth of a business school case study with the storytelling of a great documentary.
 
-Each episode is around an hour long, and every minute is worth it.
+Each episode is long. Really long. Two, sometimes four hours. And somehow, every minute is worth it.
 
+**[IMAGE: Headphones surrounded by floating logos — Disney castle, YouTube play button, Apple logo, Android robot, Instagram camera — all connected by flowing story lines]**
+
+---
 
 ## The Episodes That Stuck With Me
 
@@ -47,6 +50,8 @@ YouTube started as a video dating site. Android was a camera operating system. I
 
 These are products that **billions of people** use every single day without a second thought. And each one started as a tiny, uncertain bet by a handful of people in a room. The acquisitions that brought them into Google and Facebook weren't obvious at the time. They were gut calls by leaders who saw potential where others saw risk.
 
+**[IMAGE: Timeline showing small garage/dorm-room scenes on the left transforming into massive global products on the right]**
+
 **Fascinating. Humbling. Super inspiring.**
 
 ---
@@ -56,9 +61,13 @@ These are products that **billions of people** use every single day without a se
 In a world of 15-second reels and hot takes, Acquired is the opposite. It asks you to slow down. To sit with a story for three hours. To understand the *why* behind the what.
 
 And in doing so, it teaches you things no business school can:
+
 - **Timing matters more than talent** — many of these companies succeeded because of *when*, not just *what*
+
 - **Leadership is about bets** — every acquisition was a risk someone had the conviction to take
+
 - **Nothing is inevitable in hindsight** — the products we take for granted today were once someone's wild experiment
+
 - **Great stories compound** — the more episodes you listen to, the more connections you see across tech history
 
 ---
@@ -71,10 +80,12 @@ If you haven't started Acquired, here's my recommendation: **start from Episode 
 
 The stories of the companies we admire are richer, messier, and more human than we think. And somewhere in those stories, there's a lesson for whatever you're building right now.
 
-![Illustration: A cozy scene — person walking with headphones on a Seattle waterfront path, Space Needle in the background, with translucent story elements floating around them (Disney castle, Apple logo, YouTube play button) suggesting they're immersed in podcast stories](images/seattle-listener.png)
+**[IMAGE: Person walking with headphones on a Seattle waterfront path, Space Needle in background, with translucent story elements floating around them]**
 
 ---
 
 *Thanks to my Microsoft colleagues in Redmond for the recommendation. 25 down. Many more to go. 🎧*
 
-#Acquired #Podcast #TechHistory #StartupStories #Learning #Leadership #AlwaysBeLearning
+---
+
+*Tags: Podcasts, Tech History, Startup Stories, Learning, Leadership, Business*

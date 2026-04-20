@@ -1,6 +1,6 @@
 # Automating Plant Watering — Still Ever"green" 🌱
 
-*How I built a DIY smart watering system for 50+ plants — and it's still running 5 years later.*
+> *How I built a DIY smart watering system for 50+ plants — and it's still running 5 years later.*
 
 ---
 
@@ -22,13 +22,16 @@ Asking neighbors works... once. Twice. But it's not sustainable. Plants don't wa
 
 I needed something I could rely on — something that didn't need a favor from anyone.
 
-![Hero image: A lush terrace garden with visible drip irrigation lines and a small electronics box mounted on the wall](images/hero-garden-setup.png)
+**[IMAGE: A lush terrace garden with visible drip irrigation lines and a small electronics box mounted on the wall]**
+
+---
 
 ## The Build
 
 The idea was simple: **sense the soil, water when dry, control it from my phone.**
 
 Here's what I used:
+
 - **Microcontroller** (ESP32) — the brain, with built-in WiFi
 - **Soil moisture sensors** — one per zone, to know when plants are thirsty
 - **Solenoid valve + water pump** — to control water flow
@@ -38,21 +41,30 @@ Here's what I used:
 
 Total cost? Under ₹3,000 (~$35). Total time to set up? A weekend.
 
-![Diagram: Simple architecture showing sensor → microcontroller → relay → pump → drip lines, with WiFi connecting to a phone](images/system-architecture.png)
+**[IMAGE: System architecture diagram — sensor → microcontroller → relay → pump → drip lines, with WiFi connecting to phone]**
+
+---
 
 ## How It Works
 
 1. **Soil moisture sensors** sit in the soil across different zones (sunny side, shaded side, herbs, etc.)
+
 2. The **ESP32 reads moisture levels** every few minutes and pushes data to a simple cloud dashboard
+
 3. When moisture drops below a threshold — or when I press a button on my phone — the **relay triggers the pump**
+
 4. Water flows through **drip irrigation lines**, giving each plant exactly what it needs
+
 5. After a set duration, the pump shuts off automatically
 
 It's not rocket science. It's a weekend project with components you can buy online. But the impact? Transformative.
 
+---
+
 ## Five Years Later
 
 The system has survived:
+
 - Multiple Indian summers (45°C+)
 - Monsoon seasons
 - Power outages (auto-resumes on reboot)
@@ -62,7 +74,9 @@ Some sensors have needed replacing (moisture sensors corrode over time — pro t
 
 **50+ plants. Alive and thriving. From anywhere in the world.**
 
-![Photo-style: Healthy green plants on a terrace with a phone screen overlay showing moisture readings and a "Water Now" button](images/remote-monitoring.png)
+**[IMAGE: Healthy green plants on a terrace with a phone screen overlay showing moisture readings and a "Water Now" button]**
+
+---
 
 ## Why This Still Matters
 
@@ -78,4 +92,6 @@ If you have a garden you love, a travel schedule you can't control, and a weeken
 
 **What's your plant care hack? Drop a comment — I'd love to hear how you keep your garden alive!**
 
-#gardening #smartfarming #IoT #DIY #automation #smartplant #weekendproject
+---
+
+*Tags: Gardening, Smart Home, IoT, DIY, Automation, Weekend Project*
