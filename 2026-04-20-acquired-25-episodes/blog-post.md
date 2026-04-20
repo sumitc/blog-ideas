@@ -20,9 +20,8 @@ Two months and **25 episodes later**, I'm writing this as a thoroughly converted
 
 [Acquired.fm](https://acquired.fm) is a podcast by Ben Gilbert and David Rosenthal that tells the stories behind the world's greatest companies and acquisitions. Based right here in Seattle, these two do something rare: they combine the depth of a business school case study with the storytelling of a great documentary.
 
-Each episode is long. Really long. Two, sometimes four hours. And somehow, every minute is worth it.
+Each episode is around an hour long, and every minute is worth it.
 
-![Illustration: A pair of headphones surrounded by floating logos and icons of companies — Disney castle, YouTube play button, Apple logo, Android robot, Instagram camera — all connected by flowing story lines](images/acquired-universe.png)
 
 ## The Episodes That Stuck With Me
 
@@ -47,8 +46,6 @@ These episodes blew my mind. Not because of what these products became — we al
 YouTube started as a video dating site. Android was a camera operating system. Instagram was a messy check-in app called Burbn.
 
 These are products that **billions of people** use every single day without a second thought. And each one started as a tiny, uncertain bet by a handful of people in a room. The acquisitions that brought them into Google and Facebook weren't obvious at the time. They were gut calls by leaders who saw potential where others saw risk.
-
-![Illustration: A timeline showing small garage/dorm-room scenes on the left transforming into massive global products on the right — YouTube (camera → billion views), Android (small robot → phones everywhere), Instagram (polaroid → cultural phenomenon)](images/humble-beginnings.png)
 
 **Fascinating. Humbling. Super inspiring.**
 
