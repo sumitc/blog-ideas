@@ -1,0 +1,83 @@
+# Acquired — 25 Episodes in Less Than 2 Months! 🎙️
+
+*How a podcast recommendation in Redmond turned into the most addictive learning binge of my year.*
+
+---
+
+It started with a casual hallway conversation.
+
+Late February, I was visiting the Microsoft campus in Redmond, Washington. Between meetings, a colleague said something that would quietly reshape my commutes, workouts, and dishwashing sessions for the next two months:
+
+*"Have you listened to Acquired? It's a Seattle podcast. You'd love it."*
+
+I pulled it up that evening. Episode 1. Hit play.
+
+Two months and **25 episodes later**, I'm writing this as a thoroughly converted fan. And if you haven't listened yet — you need to.
+
+---
+
+## What Is Acquired?
+
+[Acquired.fm](https://acquired.fm) is a podcast by Ben Gilbert and David Rosenthal that tells the stories behind the world's greatest companies and acquisitions. Based right here in Seattle, these two do something rare: they combine the depth of a business school case study with the storytelling of a great documentary.
+
+Each episode is long. Really long. Two, sometimes four hours. And somehow, every minute is worth it.
+
+![Illustration: A pair of headphones surrounded by floating logos and icons of companies — Disney castle, YouTube play button, Apple logo, Android robot, Instagram camera — all connected by flowing story lines](images/acquired-universe.png)
+
+## The Episodes That Stuck With Me
+
+Out of 25 episodes, a few have stayed with me in a way that goes beyond entertainment:
+
+### 🏰 Disney's Acquisitions — Pixar & Lucasfilm
+
+The Disney episodes were personal. I'd read Bob Iger's memoir *"The Ride of a Lifetime"*, so hearing the Acquired version was like watching the movie after reading the book. The courage it took to acquire Pixar — to bet that creative independence was worth more than corporate control — is a masterclass in leadership.
+
+And Lucasfilm? Buying the legacy of George Lucas, the weight of Star Wars, the expectation of billions of fans? Iger didn't just buy companies. He bought *cultures*. And he had the wisdom to let them stay who they were.
+
+### 💻 NeXT — The Wilderness Years of Steve Jobs
+
+This one hit differently. We all know the Apple comeback story. But the NeXT episode peels back the layers on Jobs during his years in the wilderness — building something that most people thought was a failure, but that quietly laid the foundation for everything Apple would become.
+
+Every moment of frustration, every bold bet, every time Jobs inspired the people around him even when the odds were against him. It's a reminder that the path to greatness is rarely a straight line.
+
+### 📱 YouTube, Android, Instagram — The Humbling Starts
+
+These episodes blew my mind. Not because of what these products became — we all know that. But because of what they *were* at the beginning.
+
+YouTube started as a video dating site. Android was a camera operating system. Instagram was a messy check-in app called Burbn.
+
+These are products that **billions of people** use every single day without a second thought. And each one started as a tiny, uncertain bet by a handful of people in a room. The acquisitions that brought them into Google and Facebook weren't obvious at the time. They were gut calls by leaders who saw potential where others saw risk.
+
+![Illustration: A timeline showing small garage/dorm-room scenes on the left transforming into massive global products on the right — YouTube (camera → billion views), Android (small robot → phones everywhere), Instagram (polaroid → cultural phenomenon)](images/humble-beginnings.png)
+
+**Fascinating. Humbling. Super inspiring.**
+
+---
+
+## Why This Podcast Matters
+
+In a world of 15-second reels and hot takes, Acquired is the opposite. It asks you to slow down. To sit with a story for three hours. To understand the *why* behind the what.
+
+And in doing so, it teaches you things no business school can:
+- **Timing matters more than talent** — many of these companies succeeded because of *when*, not just *what*
+- **Leadership is about bets** — every acquisition was a risk someone had the conviction to take
+- **Nothing is inevitable in hindsight** — the products we take for granted today were once someone's wild experiment
+- **Great stories compound** — the more episodes you listen to, the more connections you see across tech history
+
+---
+
+## My Challenge to You
+
+If you haven't started Acquired, here's my recommendation: **start from Episode 1.** Don't skip. Don't jump to the "big" episodes. The early ones set the context. They build the vocabulary. And honestly, they're just as good.
+
+25 episodes. Less than 2 months. And I've loved every minute.
+
+The stories of the companies we admire are richer, messier, and more human than we think. And somewhere in those stories, there's a lesson for whatever you're building right now.
+
+![Illustration: A cozy scene — person walking with headphones on a Seattle waterfront path, Space Needle in the background, with translucent story elements floating around them (Disney castle, Apple logo, YouTube play button) suggesting they're immersed in podcast stories](images/seattle-listener.png)
+
+---
+
+*Thanks to my Microsoft colleagues in Redmond for the recommendation. 25 down. Many more to go. 🎧*
+
+#Acquired #Podcast #TechHistory #StartupStories #Learning #Leadership #AlwaysBeLearning
