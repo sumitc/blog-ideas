@@ -6,13 +6,25 @@
 
 It started with a casual hallway conversation.
 
-Late February, I was visiting the Microsoft campus in Redmond, Washington. Between meetings, a colleague said something that would quietly reshape my commutes, workouts, and dishwashing sessions for the next two months:
+Late February, I was visiting the Microsoft campus in Redmond, Washington. Between meetings, a colleague said something that would quietly reshape my commutes for the next two months:
 
 *"Have you listened to Acquired? It's a Seattle podcast. You'd love it."*
 
 I pulled it up that evening. Episode 1. Hit play.
 
 Two months and **25 episodes later**, I'm writing this as a thoroughly converted fan. And if you haven't listened yet — you need to.
+
+---
+
+## My New Driving Ritual
+
+Here's the thing about Acquired: those 20-30 minute car rides that used to feel like dead time? Now they're the highlight of my day.
+
+I get in the car, hit play, and suddenly I'm learning how YouTube pivoted from a video dating site, or how Steve Jobs rebuilt himself at NeXT, or why Bob Iger bet Disney's future on Pixar. By the time I park, I'm genuinely energized. Not drained from traffic — *energized*.
+
+There's something magical about starting your day with stories of people who built extraordinary things from nothing. It puts your own challenges in perspective. If Chad Hurley could pivot a failed dating site into YouTube, maybe my 9am meeting isn't that daunting after all.
+
+**[IMAGE: Person in car with phone mounted on dashboard, podcast playing, looking energized and engaged — morning light through windshield]**
 
 ---
 
@@ -23,6 +35,18 @@ Two months and **25 episodes later**, I'm writing this as a thoroughly converted
 Each episode is long. Really long. Two, sometimes four hours. And somehow, every minute is worth it.
 
 **[IMAGE: Headphones surrounded by floating logos — Disney castle, YouTube play button, Apple logo, Android robot, Instagram camera — all connected by flowing story lines]**
+
+---
+
+## Two Stories in One
+
+What I love most about Acquired is that every episode is really *two* stories woven together:
+
+**The founding story** — how these companies got started. These are *so inspiring and intriguing*. The scrappy beginnings. The near-death moments. The pivots no one saw coming. Instagram was a check-in app called Burbn. Android was a camera operating system. YouTube was... a video dating site? These origin stories are humbling reminders that nothing we take for granted today was ever inevitable.
+
+**The acquisition story** — and then, just when you think you know where it's going, the acquisition chapters blow your mind even more. The negotiations. The personalities. The gut calls made by leaders who saw potential where others saw risk. Google buying Android for $50M. Facebook acquiring Instagram for $1B (and everyone calling it crazy). Disney paying $7.4B for Pixar. These aren't just business deals — they're turning points in tech history.
+
+*Inspiring origins. Intriguing pivots. Amazing acquisitions.* Every episode delivers all three.
 
 ---
 
