@@ -8,7 +8,7 @@ It started with a casual hallway conversation.
 
 Late February, I was visiting the Microsoft campus in Redmond, Washington. Between meetings, a colleague said something that would quietly reshape my commutes, workouts, and dishwashing sessions for the next two months:
 
-*"Have you listened to Acquired? It's a Seattle podcast. You'd love it."*
+*"Have you listened to Acquired? It's a Seattle based podcast. You'd love it."*
 
 I pulled it up that evening. Episode 1. Hit play.
 
