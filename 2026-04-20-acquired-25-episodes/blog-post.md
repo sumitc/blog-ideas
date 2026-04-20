@@ -8,7 +8,7 @@ It started with a casual hallway conversation.
 
 Late February, I was visiting the Microsoft campus in Redmond, Washington. Between meetings, a colleague said something that would quietly reshape my commutes for the next two months:
 
-*"Have you listened to Acquired? It's a Seattle podcast. You'd love it."*
+*"Have you listened to Acquired? It's a Seattle based podcast. You'd love it."*
 
 I pulled it up that evening. Episode 1. Hit play.
 
@@ -24,17 +24,11 @@ I get in the car, hit play, and suddenly I'm learning how YouTube pivoted from a
 
 There's something magical about starting your day with stories of people who built extraordinary things from nothing. It puts your own challenges in perspective. If Chad Hurley could pivot a failed dating site into YouTube, maybe my 9am meeting isn't that daunting after all.
 
-**[IMAGE: Person in car with phone mounted on dashboard, podcast playing, looking energized and engaged — morning light through windshield]**
-
 ---
 
 ## What Is Acquired?
 
-[Acquired.fm](https://acquired.fm) is a podcast by Ben Gilbert and David Rosenthal that tells the stories behind the world's greatest companies and acquisitions. Based right here in Seattle, these two do something rare: they combine the depth of a business school case study with the storytelling of a great documentary.
-
-Each episode is long. Really long. Two, sometimes four hours. And somehow, every minute is worth it.
-
-**[IMAGE: Headphones surrounded by floating logos — Disney castle, YouTube play button, Apple logo, Android robot, Instagram camera — all connected by flowing story lines]**
+[Acquired.fm](https://acquired.fm) is a podcast by Ben Gilbert and David Rosenthal that tells the stories behind the world's greatest companies and acquisitions. Based right here in Seattle, these two do something rare: they combine the depth of a business school case study with the storytelling of a great documentary. Each episode is around an hour logn, but every minute is worth it.
 
 ---
 
@@ -74,8 +68,6 @@ YouTube started as a video dating site. Android was a camera operating system. I
 
 These are products that **billions of people** use every single day without a second thought. And each one started as a tiny, uncertain bet by a handful of people in a room. The acquisitions that brought them into Google and Facebook weren't obvious at the time. They were gut calls by leaders who saw potential where others saw risk.
 
-**[IMAGE: Timeline showing small garage/dorm-room scenes on the left transforming into massive global products on the right]**
-
 **Fascinating. Humbling. Super inspiring.**
 
 ---
@@ -86,13 +78,10 @@ In a world of 15-second reels and hot takes, Acquired is the opposite. It asks y
 
 And in doing so, it teaches you things no business school can:
 
-- **Timing matters more than talent** — many of these companies succeeded because of *when*, not just *what*
-
 - **Leadership is about bets** — every acquisition was a risk someone had the conviction to take
-
 - **Nothing is inevitable in hindsight** — the products we take for granted today were once someone's wild experiment
-
 - **Great stories compound** — the more episodes you listen to, the more connections you see across tech history
+- **Timing matters more than talent** — many of these companies succeeded because of *when*, not just *what*
 
 ---
 
@@ -103,8 +92,6 @@ If you haven't started Acquired, here's my recommendation: **start from Episode 
 25 episodes. Less than 2 months. And I've loved every minute.
 
 The stories of the companies we admire are richer, messier, and more human than we think. And somewhere in those stories, there's a lesson for whatever you're building right now.
-
-**[IMAGE: Person walking with headphones on a Seattle waterfront path, Space Needle in background, with translucent story elements floating around them]**
 
 ---
 
