@@ -46,7 +46,14 @@ Have you run into something similar? A moment where an AI was confident but clea
 
 **Tags:** AI, Machine Learning, Technology, ChatGPT, Artificial Intelligence
 
-**Social quote:** *"Tested ChatGPT, Claude, and Gemini on a chess position. None of them read the board correctly. Spatial reasoning from photos is still genuinely hard for AI—even when everything else they do is incredible."*
+**Tweet:**
+> My daughter and I were playing chess this weekend. She asked ChatGPT to verify a checkmate.
+>
+> ChatGPT, Claude, and Gemini all got it wrong.
+>
+> Not a criticism — just a fascinating observation about where AI still surprises you. 🧵
+>
+> [link] [attach: chess board photo]
 
 **Images to embed:**
 1. Chess board photo (opener)
