@@ -1,4 +1,4 @@
-# Why ChatGPT, Claude, and Gemini All Failed My Chess Board Test
+# I Tested ChatGPT, Claude, and Gemini on Chess — Here's What Happened
 
 AI models have become remarkably good at understanding code, writing emails, and explaining complex concepts. But during a chess game with my kid, I stumbled onto something interesting: **a situation where real-world image interpretation proved surprisingly challenging for all three leading models.** I decided to test ChatGPT, Claude, and Gemini on a chess position we thought was checkmate.
 
