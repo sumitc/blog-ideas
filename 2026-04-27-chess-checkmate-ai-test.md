@@ -1,12 +1,14 @@
 # I Tested ChatGPT, Claude, and Gemini on Chess — Here's What Happened
 
-AI models have become remarkably good at understanding code, writing emails, and explaining complex concepts. But during a chess game with my kid, I stumbled onto something interesting: **a situation where real-world image interpretation proved surprisingly challenging for all three leading models.** I decided to test ChatGPT, Claude, and Gemini on a chess position we thought was checkmate.
+This weekend, my daughter and I were playing chess. She's just started learning the game, and I thought it would be fun to dabble with her. One of our games ended in this position:
 
-None of them got it right.
+[IMAGE: The physical chess board photo]
 
-Not because they're limited in any permanent way—they excel in so many areas. But this revealed something worth exploring: spatial reasoning from physical photographs has constraints that are genuinely different from the text and structured data they've been trained on.
+To me, it was a clear checkmate. But my daughter asked me to confirm on ChatGPT before we called it—and that's when some interesting observations followed.
 
-Here's what happened when I tested them.
+AI models today are remarkably good at understanding code, writing emails, and explaining complex concepts. But what happened when I tested ChatGPT, Claude, and Gemini on this chess position revealed something worth exploring.
+
+Here's what I found.
 
 ---
 
