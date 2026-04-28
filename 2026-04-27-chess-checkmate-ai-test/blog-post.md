@@ -2,7 +2,7 @@
 
 This weekend, my daughter and I were playing chess. She's just started learning, and one of our games ended in this position:
 
-[IMAGE: The physical chess board photo]
+[IMAGE: chess-board.png]
 
 To me, it was a clear checkmate. But my daughter asked me to confirm on ChatGPT before we called it. That's when things got interesting.
 
@@ -16,15 +16,15 @@ Here's what I found.
 
 **ChatGPT** was confident: *"It does not look like a true checkmate."* It claimed White had escape squares and blocking options—but it had misread the piece positions entirely.
 
-[IMAGE: ChatGPT response screenshot]
+[IMAGE: chatgpt-response.png]
 
 **Gemini** agreed: *"Not a Checkmate, White's Turn."* It described the White King as unchallenged at the top of the board. Again, the positions it described didn't match the actual image.
 
-[IMAGE: Gemini response screenshot]
+[IMAGE: gemini-response.png]
 
 **Claude** was the most transparent: *"I cannot confidently confirm this is checkmate from this image alone."* It called out the exact problem—pieces were hard to distinguish due to the photo angle, and it couldn't pin down the Black King's exact square.
 
-[IMAGE: Claude response screenshot]
+[IMAGE: claude-response.png]
 
 ---
 
@@ -42,21 +42,4 @@ Have you run into something similar? A moment where an AI was confident but clea
 
 ---
 
-## Publishing Notes
-
-**Tags:** AI, Machine Learning, Technology, ChatGPT, Artificial Intelligence
-
-**Tweet:**
-> My daughter and I were playing chess this weekend. She asked ChatGPT to verify a checkmate.
->
-> ChatGPT, Claude, and Gemini all got it wrong.
->
-> Not a criticism — just a fascinating observation about where AI still surprises you. 🧵
->
-> [link] [attach: chess board photo]
-
-**Images to embed:**
-1. Chess board photo (opener)
-2. ChatGPT response screenshot
-3. Gemini response screenshot
-4. Claude response screenshot
+*Tags: AI, Machine Learning, Technology, ChatGPT, Artificial Intelligence*

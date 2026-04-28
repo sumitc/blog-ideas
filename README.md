@@ -12,6 +12,7 @@ Each folder is a self-contained blog project with:
 
 | Date | Title | Theme |
 |------|-------|-------|
+| 2026-04-27 | [I Tested ChatGPT, Claude, and Gemini on Chess](./2026-04-27-chess-checkmate-ai-test/) | AI / Vision / Spatial Reasoning |
 | 2026-04-20 | [Automating Plant Watering — Still Ever"green"](./2026-04-20-automated-plant-watering/) | DIY / Smart Home / IoT |
 | 2026-04-20 | [AI Tools: The New Equalizer](./2026-04-20-ai-tools-the-equalizer/) | AI / Product / Creativity |
 | 2026-04-20 | [Acquired — 25 Episodes in 2 Months!](./2026-04-20-acquired-25-episodes/) | Podcast / Tech / Learning |
