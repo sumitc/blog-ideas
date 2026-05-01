@@ -4,7 +4,14 @@ Every summer, when school breaks arrive and we start planning a family trip, the
 
 ---
 
-The build is simpler than it sounds, and every part is available on Amazon. Here's exactly what I used: a [small submersible pump](https://amzn.to/3QHSWet) pulls water from either a [storage drum](https://amzn.to/3Pf2blV) (great if you want a buffer reservoir) or you can skip the drum entirely and use a [solenoid valve](https://amzn.to/4t98Z2A) that connects directly to your tap. The water is distributed through a [20-plant drip watering kit](https://amzn.to/4n5tNqc) with individual nozzles for each pot — you just lay the tubing, push the nozzles into the soil, and you're done. The whole system is switched on and off by a [WiFi-enabled smart switch](https://amzn.to/3QDTClb) that connects to your home network and works with any standard smart home app. Set a daily watering schedule, or just tap your phone when you feel like it from wherever you are. The total setup took me a weekend. No coding. No electronics expertise. Just tubing, a pump, and a smart plug.
+The build is simpler than it sounds, and every part is available on Amazon. Here's exactly what I used — you can grab all of it online and have it running in a weekend:
+
+- 🔧 **[Submersible pump](https://amzn.to/3QHSWet)** — pulls water and pushes it through the drip lines
+- 🪣 **[Storage drum](https://amzn.to/3Pf2blV)** — acts as a water reservoir (great if your tap isn't nearby); alternatively, use a **[solenoid valve](https://amzn.to/4t98Z2A)** for a direct tap connection
+- 💧 **[20-plant drip watering kit](https://amzn.to/4n5tNqc)** — individual nozzles for each pot; just lay the tubing and push them into the soil
+- 📱 **[WiFi smart switch](https://amzn.to/3QDTClb)** — connects to your home network, works with any standard smart home app; set a daily schedule or trigger it manually from your phone
+
+No coding. No electronics expertise. Just tubing, a pump, and a smart plug — and you're done.
 
 ---
 
