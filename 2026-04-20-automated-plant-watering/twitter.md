@@ -1,19 +1,21 @@
-# Twitter/X Posts
+# Twitter/X Post
 
-## Primary Tweet
-5 years ago I automated watering for my 50+ plants with a ₹3K ESP32 setup. Today, it's still running — from anywhere in the world. 🌱
+Going on a 10-day family vacation. 50+ plants at home. Zero stress.
 
-Still ever"green." 🌿
+5 years ago I set up a ₹2,000 automated drip watering system — pump, smart switch, drip kit — all from Amazon. Still running. Still watering. Still ever-green. 🌱
 
-Thread below 🧵👇
+How I did it → [link]
 
-## Thread (optional)
-1/ The problem: 50+ plants, frequent travel, Indian summers. Neighbors can help once. Not forever.
+---
 
-2/ The fix: ESP32 + soil sensors + relay + pump + drip lines. One weekend. Under $35.
+# LinkedIn Post
 
-3/ How it works: Sensors read moisture → data hits cloud → I tap "water" from 600km away → pump runs → plants thrive.
+Every summer vacation, the first thing I used to worry about was: *"Who's going to water the plants?"*
 
-4/ 5 years later: Same pump. Same microcontroller. Zero downtime. 50+ plants alive and thriving.
+5 years ago, I stopped asking that question. I built a simple automated drip watering system for our 50+ terrace plants — a pump, a drip kit, and a WiFi smart switch. Total cost: under ₹2,000. Setup time: one weekend. No coding required.
 
-5/ Smart gardening is underrated. Your plants don't care about your calendar. Build it once, water forever. 🌿
+This summer, with a 10-day family trip coming up, I opened the app and everything was green. The system is still running, exactly as I left it years ago.
+
+I finally wrote the how-to — with Amazon links for every part — so you can set it up before your next vacation too.
+
+→ [link]

@@ -1,97 +1,17 @@
-# Automating Plant Watering — Still Ever"green" 🌱
+# How to Keep 50 Plants Alive While You Travel — a ₹2,000 Weekend Setup That Still Works 5 Years Later
 
-> *How I built a DIY smart watering system for 50+ plants — and it's still running 5 years later.*
-
----
-
-Back in 2020, I posted a one-liner on LinkedIn that got more attention than most of my "serious" posts:
-
-> "Nothing gives more satisfaction than monitoring & watering your 50+ plants from 600+ Kms away!!"
-
-The comments poured in: *"Write a how-to blog!"*, *"I still rely on my neighbors!"*, *"We need to solve the same problem!"* Friends, colleagues — even strangers — wanted to know: how do you keep 50+ plants alive when you're not home?
-
-Well, it took me a while, but here's the story. And the best part? **The system is still running.** Five years later. Still ever-green.
+Every summer, when school breaks arrive and we start planning a family trip, the same question pops up before we've even booked the tickets: *"What about the plants?"* We have over 50 plants on our terrace — flowering plants, herbs, a few vegetables — and leaving them for 10 days in Indian summer heat is basically a death sentence without a plan. I faced this exact problem years ago when work travel was pulling me 600+ km away from home regularly, and neighbors could only help so many times before it felt like an imposition. So I built something. A simple, automated drip watering system that I could control from my phone — from anywhere. That was 5 years ago. Today, packing for our family vacation, I checked the app on my phone and all readings were green. The system is still running. Still ever-green.
 
 ---
 
-## The Problem
-
-I love plants. My terrace garden in India has over 50 of them — flowering plants, herbs, a few vegetables. But I travel a lot for work. Sometimes I'm 600 km away. Sometimes across the globe.
-
-Asking neighbors works... once. Twice. But it's not sustainable. Plants don't wait for your schedule. Miss two days in Indian summer, and it's game over.
-
-I needed something I could rely on — something that didn't need a favor from anyone.
-
-**[IMAGE: A lush terrace garden with visible drip irrigation lines and a small electronics box mounted on the wall]**
+The build is simpler than it sounds, and every part is available on Amazon. Here's exactly what I used: a [small submersible pump](https://amzn.to/3QHSWet) pulls water from either a [storage drum](https://amzn.to/3Pf2blV) (great if you want a buffer reservoir) or you can skip the drum entirely and use a [solenoid valve](https://amzn.to/4t98Z2A) that connects directly to your tap. The water is distributed through a [20-plant drip watering kit](https://amzn.to/4n5tNqc) with individual nozzles for each pot — you just lay the tubing, push the nozzles into the soil, and you're done. The whole system is switched on and off by a [WiFi-enabled smart switch](https://amzn.to/3QDTClb) that connects to your home network and works with any standard smart home app. Set a daily watering schedule, or just tap your phone when you feel like it from wherever you are. The total setup took me a weekend. No coding. No electronics expertise. Just tubing, a pump, and a smart plug.
 
 ---
 
-## The Build
+Five years, multiple Indian summers, monsoon seasons, and one global pandemic later — the plants are thriving and the system has needed almost zero intervention. The only thing I've replaced is the drip nozzles once (they clog over time; a quick rinse and they're good as new). The pump is original. The smart switch still syncs on the first try. What I didn't expect when I built this was how much *peace of mind* it would give me — not just for travel, but for those crazy weeks where I just forget to water. If you have a garden you love and a life that doesn't always let you show up for it, this is the weekend project that pays you back for years. We're 10 days away from our family trip, and for the first time, plants aren't on my worry list.
 
-The idea was simple: **sense the soil, water when dry, control it from my phone.**
-
-Here's what I used:
-
-- **Microcontroller** (ESP32) — the brain, with built-in WiFi
-- **Soil moisture sensors** — one per zone, to know when plants are thirsty
-- **Solenoid valve + water pump** — to control water flow
-- **Relay module** — to safely switch the pump on/off from the microcontroller
-- **Drip irrigation tubing** — to distribute water evenly across all plants
-- **A simple mobile dashboard** — to monitor readings and trigger watering remotely
-
-Total cost? Under ₹3,000 (~$35). Total time to set up? A weekend.
-
-**[IMAGE: System architecture diagram — sensor → microcontroller → relay → pump → drip lines, with WiFi connecting to phone]**
+**What's your travel-proofing hack for your plants? Drop a comment — I'd love to know what works for you!**
 
 ---
 
-## How It Works
-
-1. **Soil moisture sensors** sit in the soil across different zones (sunny side, shaded side, herbs, etc.)
-
-2. The **ESP32 reads moisture levels** every few minutes and pushes data to a simple cloud dashboard
-
-3. When moisture drops below a threshold — or when I press a button on my phone — the **relay triggers the pump**
-
-4. Water flows through **drip irrigation lines**, giving each plant exactly what it needs
-
-5. After a set duration, the pump shuts off automatically
-
-It's not rocket science. It's a weekend project with components you can buy online. But the impact? Transformative.
-
----
-
-## Five Years Later
-
-The system has survived:
-
-- Multiple Indian summers (45°C+)
-- Monsoon seasons
-- Power outages (auto-resumes on reboot)
-- Zero maintenance for months at a stretch
-
-Some sensors have needed replacing (moisture sensors corrode over time — pro tip: coat them in waterproof sealant). The pump is still the original one. The ESP32 hasn't been rebooted in months.
-
-**50+ plants. Alive and thriving. From anywhere in the world.**
-
-**[IMAGE: Healthy green plants on a terrace with a phone screen overlay showing moisture readings and a "Water Now" button]**
-
----
-
-## Why This Still Matters
-
-We live in an age of smart everything — smart lights, smart locks, smart speakers. But smart gardening is still underrated. It's not about being lazy. It's about being reliable. Your plants don't care about your meeting schedule.
-
-If you have a garden you love, a travel schedule you can't control, and a weekend to spare — **build this**. Your plants will thank you. Silently. In green.
-
----
-
-*Still ever-green. 🌿*
-
----
-
-**What's your plant care hack? Drop a comment — I'd love to hear how you keep your garden alive!**
-
----
-
-*Tags: Gardening, Smart Home, IoT, DIY, Automation, Weekend Project*
+*Tags: Gardening, Smart Home, DIY, Life Hacks, Home Improvement*
