@@ -1,4 +1,4 @@
-# How to Keep 20+ Plants Alive While You Travel — a ₹2,000 Weekend Setup That Still Works 5 Years Later
+# The ₹2,000 Setup That Keeps My Plants Alive While I Travel
 
 Every summer, when school breaks arrive and we start planning a family trip, the same question pops up before we've even booked the tickets: *"What about the plants?"* We have over 20 plants on our terrace — flowering plants, herbs, a few vegetables — and leaving them for 10 days in Indian summer heat is basically a death sentence without a plan. I faced this exact problem years ago when work travel was pulling me 600+ km away from home regularly, and neighbors could only help so many times before it felt like an imposition. So I built something. A simple, automated drip watering system that I could control from my phone — from anywhere. That was 5 years ago. Today, packing for our family vacation, I checked the app on my phone and all readings were green. The system is still running. Still ever-green.
 
