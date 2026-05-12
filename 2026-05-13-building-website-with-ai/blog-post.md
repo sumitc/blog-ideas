@@ -8,12 +8,13 @@
 
 I used to think the hard part of a personal website was the *building*. I was wrong.
 
-One evening, I described what I wanted to GitHub Copilot CLI. By the end of the night, [sumitc.in](https://sumitc.in) was live — blog, kids' books section, custom domain, booking page. The tech wasn't the hard part. Two questions were:
+One evening, I described what I wanted to GitHub Copilot CLI. By the end of the night, [sumitc.in](https://sumitc.in) was live — blog, kids' books section, custom domain, booking page. The tech wasn't the hard part. Three questions were — and most people skip the third one entirely:
 
 - **Who is this for?** *(people curious about tech, AI, and building things)*
 - **What value does it create?** *(a place to read my work and reach out easily)*
+- **What connects everything I do?** *(products, writing, kids' books, experiments — all curiosity-driven building)*
 
-Once I answered those honestly, everything else followed.
+That third question is the one that gives a site a soul. Without it, you end up with something that looks like a LinkedIn profile. Once I answered all three honestly, everything else snapped into place.
 
 ---
 
