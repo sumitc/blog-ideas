@@ -1,27 +1,54 @@
-# Your Personal Website in 2026: The Hard Part Isn't Building It
+# Zero Code. One Evening. Live Website.
 
-> *How a single evening conversation with AI went from zero to a live site — and what that reveals about where the real work actually is.*
+> *What building sumitc.in with AI taught me about where the real work actually is.*
 
 ---
 
 ![Homepage of sumitc.in — the finished product](images/ss-homepage.png)
 
-I used to think the hard part of having a personal website was the *building*. The tech stack, the hosting, the DNS records, the deployment pipeline. I was wrong. I realized this after spending a single evening conversation with GitHub Copilot CLI — and ending up with a live site at [sumitc.in](https://sumitc.in), complete with a blog that syncs titles from Medium and Substack, a kids' books section, a custom domain, and a booking page. The hard part was never the code. It was answering two questions: *Who is this for?* and *What value does it create for them?* Once I got honest about those — I write for people curious about tech, AI, and building things; I want them to read my work and reach out easily — everything else snapped into place. The site became a reflection of intent, not a technical achievement.
+I used to think the hard part of a personal website was the *building*. I was wrong.
+
+One evening, I described what I wanted to GitHub Copilot CLI. By the end of the night, [sumitc.in](https://sumitc.in) was live — blog, kids' books section, custom domain, booking page. The tech wasn't the hard part. Two questions were:
+
+- **Who is this for?** *(people curious about tech, AI, and building things)*
+- **What value does it create?** *(a place to read my work and reach out easily)*
+
+Once I answered those honestly, everything else followed.
 
 ---
 
-![Git log and Vercel deployment — the process from CLI to live](images/ss-terminal.png)
+![Git log and Vercel deployment — from CLI to live](images/ss-terminal.png)
 
-Once you know *why* you're building it, the *how* is surprisingly simple today. I typed a description of what I wanted into a CLI, and it scaffolded a full Next.js project, wired it to my existing markdown content, fixed a mobile overflow bug I hadn't even noticed, and caught a subtle Babel parse error in the process. Then: `git push`, `vercel --prod`, two DNS records updated in GoDaddy, and it was live. The total infrastructure cost is zero — Vercel handles SSL, CDN, and auto-deployment on every push. There are a few tricks worth knowing: use Vercel (not Render) when you have no backend APIs, always delete old A records before adding new ones, and RSS feeds from Medium and Substack are goldmines for keeping your site's metadata in sync with what you've actually published.
+Once the *why* was clear, the *how* took one evening. Here's the actual process:
+
+1. Described the site in plain English → Copilot scaffolded a full Next.js project
+2. Wired to existing markdown content → blog posts pulled in automatically
+3. `git push` → `vercel --prod` → two DNS record changes in GoDaddy → live
+
+**Total infrastructure cost: zero.** Vercel handles SSL, CDN, and auto-deploys on every push.
+
+A few tricks that saved time:
+- Use **Vercel** (not Render) when there's no backend API
+- Always **delete old A records** before adding new DNS ones
+- **RSS feeds** from Medium and Substack auto-sync titles and dates to the site
 
 ---
 
-![Booking page and blog listing — features added incrementally](images/ss-connect.png)
+![Booking page added incrementally — one conversation, 20 minutes](images/ss-connect.png)
 
-The part that surprised me most was what came *after* the initial build. Because I'd saved all the styling preferences, architecture decisions, and gotchas into a reusable Copilot CLI skill, every incremental change became trivial. Adding a booking page connected to Google Calendar? One conversation, 20 minutes. Updating the nav, tweaking blog card tags to use a consistent color dictionary, bumping the booking CTA to a prime spot above the fold? Each was a single instruction, a build check, a `git push`. The website doesn't feel like a project I *finished* — it feels like a living thing I can keep shaping. That's the real unlock: not just building it fast, but building it in a way where *coming back* is just as easy as starting. If you're thinking about doing the same, I'd love to hear where you're at — [book a 30-min chat](https://sumitc.in/connect), weekends, free.
+The real surprise came *after* the launch. Because I'd saved all styling preferences and decisions as a reusable Copilot CLI skill, every update became trivial:
+
+- **Booking page** (Cal.com + Google Calendar): one conversation, 20 min
+- **Consistent tag colours** across blog cards: one instruction
+- **Nav cleanup**, CTA placement, RSS sync: each a single `git push`
+
+The site doesn't feel like a project I *finished* — it feels like something I can keep shaping. That's the unlock: build it so coming back is as easy as starting.
+
+If you're thinking about doing the same — [book a 30-min chat](https://sumitc.in/connect), weekends, free. Happy to walk through it.
 
 ---
 
-> **Are you still putting off your personal site? What's the one thing holding you back — drop it in the comments.**
+> **What's been stopping you from putting your site live? Drop it in the comments.**
 
 *I write about AI, product building, and the things I'm making. Follow so you don't miss the next one.*
+

@@ -1,4 +1,4 @@
-# Notes: Your Personal Website in 2026 — The Hard Part Isn't Building It
+# Notes: Zero Code. One Evening. Live Website.
 
 ## Published Links
 *(to be filled after publishing)*
