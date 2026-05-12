@@ -1,7 +1,8 @@
 # Notes: Zero Code. One Evening. Live Website.
 
 ## Published Links
-*(to be filled after publishing)*
+- **Substack**: https://open.substack.com/pub/csumit/p/zero-code-one-evening-live-website
+- **Medium**: https://medium.com/@getsumit/zero-code-one-evening-live-website-cf2f1f91f90e
 
 ## Origin Story
 - May 13, 2026: Built sumitc.in in a single evening session with GitHub Copilot CLI
