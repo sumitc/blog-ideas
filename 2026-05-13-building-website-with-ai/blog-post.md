@@ -20,7 +20,11 @@ That third question is the one that gives a site a soul. Without it, you end up 
 
 ![Git log and Vercel deployment — from CLI to live](images/ss-terminal.png)
 
-Once the *why* was clear, the *how* took one evening. Here's the actual process:
+Once the *why* was clear, the *how* took one evening.
+
+The tool I used is **GitHub Copilot CLI** — not the IDE autocomplete you might know, but a conversational AI agent that lives in your terminal. You describe what you want; it writes the code, runs the commands, and asks when it needs a decision from you. No switching tabs. No copy-pasting from ChatGPT. You're just talking to something that can *act*.
+
+Here's the actual process:
 
 1. Described the site in plain English → Copilot scaffolded a full Next.js project
 2. Wired to existing markdown content → blog posts pulled in automatically
