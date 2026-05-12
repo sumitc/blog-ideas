@@ -24,6 +24,8 @@ Once the *why* was clear, the *how* took one evening.
 
 The tool I used is **GitHub Copilot CLI** — not the IDE autocomplete you might know, but a conversational AI agent that lives in your terminal. You describe what you want; it writes the code, runs the commands, and asks when it needs a decision from you. No switching tabs. No copy-pasting from ChatGPT. You're just talking to something that can *act*.
 
+One thing worth calling out: the model powering it was **Claude Sonnet 4.6** — not Opus, not some frontier model people assume you need for "serious" work. The whole site — scaffold, blog wiring, DNS setup, booking page, multi-platform RSS sync — was built on Sonnet. The gap between what Sonnet can do and what people *think* you need Opus for is much larger than most realise.
+
 Here's the actual process:
 
 1. Described the site in plain English → Copilot scaffolded a full Next.js project
