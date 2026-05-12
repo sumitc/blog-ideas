@@ -38,7 +38,7 @@ A few tricks that saved time:
 
 The real surprise came *after* the launch. Because I'd saved all styling preferences and decisions as a reusable Copilot CLI skill, every update became trivial:
 
-- **Booking page** (Cal.com + Google Calendar): one conversation, 20 min
+- **Booking page** (Cal.com + Google Calendar): one conversation, one deploy
 - **Consistent tag colours** across blog cards: one instruction
 - **Nav cleanup**, CTA placement, RSS sync: each a single `git push`
 
