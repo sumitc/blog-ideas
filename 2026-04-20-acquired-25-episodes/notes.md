@@ -1,5 +1,8 @@
 # Notes: Acquired — 25 Episodes in Less Than 2 Months!
 
+## Published Links
+- **Medium:** https://medium.com/@getsumit/acquired-25-episodes-in-less-than-2-months-%EF%B8%8F-78c2f4e0bc97
+
 ## Origin Story
 - Late February 2026: Sumit visiting Microsoft Redmond campus
 - Colleagues recommended Acquired.fm — a Seattle-based podcast about tech acquisitions

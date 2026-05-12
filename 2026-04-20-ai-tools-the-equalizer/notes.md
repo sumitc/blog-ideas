@@ -1,5 +1,8 @@
 # Notes: AI Tools — The New Equalizer
 
+## Published Links
+- Not yet published
+
 ## Origin Story
 - Sumit was a jury member at ProdX 2026, IIT Hyderabad's flagship product case competition
 - Part of Horizon '26 fest, organized by Finance and Consulting Club, IIT Hyderabad

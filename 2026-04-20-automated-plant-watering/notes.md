@@ -1,5 +1,8 @@
 # Notes: Automating Plant Watering — Still Ever"green"
 
+## Published Links
+- **Medium:** https://medium.com/@getsumit/who-will-water-the-plants-when-we-travel-this-hack-still-works-5-years-later-b8f76a2971d5
+
 ## Origin Story
 - Original LinkedIn post (2020): "Nothing gives more satisfaction than monitoring & watering your 50+ plants from 600+ Kms away!!"
 - Post went viral with comments asking for a "how-to" blog

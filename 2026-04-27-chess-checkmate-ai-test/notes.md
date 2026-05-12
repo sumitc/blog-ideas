@@ -1,5 +1,8 @@
 # Notes: I Tested ChatGPT, Claude, and Gemini on Chess
 
+## Published Links
+- **Medium:** https://medium.com/@getsumit/i-tested-chatgpt-claude-and-gemini-on-chess-heres-what-happened-9d488c5710e2
+
 ## Origin Story
 - April 2026: Playing chess with daughter (she's just started learning)
 - One game ended in a position that looked like a clear checkmate for White
