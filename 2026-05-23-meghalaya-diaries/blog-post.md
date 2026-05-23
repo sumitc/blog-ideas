@@ -1,4 +1,4 @@
-# Meghalaya Diaries: Of Waterfalls, Flywheels & Finally Sleeping Well
+# Meghalaya Trip reflections
 
 *9 days through the Abode of Clouds — and what it taught me about family, growth, and rest*
 
