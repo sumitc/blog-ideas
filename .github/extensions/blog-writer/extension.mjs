@@ -4,6 +4,8 @@
 // and a full post-performance analysis covering titles, CTAs, tags, length, and distribution.
 //
 // Blog repo: https://github.com/sumitc/blog-ideas
+// Local repo path: /Users/sumitc/projects/blog-ideas
+// ALWAYS work directly in the local repo — never clone to /tmp or elsewhere.
 // Store all drafts and published posts in the blog-ideas repo for easy access and review.
 
 import { joinSession } from "@github/copilot-sdk/extension";
@@ -93,6 +95,26 @@ Every post needs BOTH:
 - Twitter/X thread format gets 3–5x more clicks than a single link tweet
 - Indian Facebook groups for travel/home topics
 - Time of posting: Tue–Thu mornings perform best
+
+### Tone & Voice
+- Warm, personal, self-deprecating humour works — don't over-polish into "professional voice"
+- The best moments are specific and human: a mom's jhalmuri memory, "my wife was *cautiously* thrilled", "we survived. Barely."
+- Kids and family details make posts relatable — don't sanitise them out
+- Self-deprecating lines land better than triumphant ones: "The adults survived. Barely." > "We completed the trek."
+- Write like the reader is a friend, not an audience
+
+### Multi-Theme Posts
+- 3-part structure works well when each part has a distinct angle: personal story + analytical insight + data/surprise
+- Each part should be able to stand alone but together they create a richer whole
+- Give each part a distinct emoji + heading to help scanners navigate
+- The "unexpected bonus" (e.g. sleep data) makes a great final section — ends on a surprise and a practical takeaway
+
+### Iterative Drafting
+- Start with a full draft, then cut to half — you keep the best lines by necessity
+- "Shortening" ≠ losing warmth — warmth comes from specific details, not length
+- When shortening trip/travel content: collapse day-by-day into one flowing narrative
+- Image placeholders: use `> 📷 *[IMAGE: description]*` format inline in the markdown
+- Place first image after intro (not before) — let the hook land first, then reinforce with a visual
 
 ### What a Strong Post Looks Like
 1. Title: Leads with outcome/lesson/surprise — not the event itself
@@ -336,7 +358,7 @@ const session = await joinSession({
     ],
     hooks: {
         onUserPromptSubmitted: async ({ prompt }) => {
-            const blogKeywords = /\b(blog|post|article|medium|write|writing|draft|publish|title|headline)\b/i;
+            const blogKeywords = /\b(blog|post|article|medium|write|writing|draft|publish|title|headline|trip|travel|journey|vacation|holiday|memoir|story|reflection|flywheel|newsletter|substack|linkedin|content|share my|capture my|document my|put together a|help me write)\b/i;
             if (blogKeywords.test(prompt)) {
                 return {
                     additionalContext: `The user is working on blog content. Key rules from real post-performance data:
