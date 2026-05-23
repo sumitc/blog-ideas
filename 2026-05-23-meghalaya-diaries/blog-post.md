@@ -78,6 +78,10 @@ Three things that stayed with me long after the unpacking:
 
 ---
 
+*P.S. — One less thing I had to worry about on this trip: the plants. They survived too. If you've ever stressed about leaving them behind, [this hack still works 5 years later](https://medium.com/@getsumit/who-will-water-the-plants-when-we-travel-this-hack-still-works-5-years-later-b8f76a2971d5). 🌱*
+
+---
+
 *Have you been to Meghalaya? Did the Dawki river leave you as speechless as it left us? And for the fellow sleep-debt warriors — has a trip ever genuinely reset you, numbers and all?*
 
 *Drop it in the comments below — I read every one. The mountains are calling. And yes, they have WiFi now — which, as we just discussed, is both the point and the problem.* 🏔️
