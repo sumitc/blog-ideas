@@ -1,8 +1,8 @@
 # Notes: Meghalaya Diaries: Of Waterfalls, Flywheels & Finally Sleeping Well
 
 ## Published Links
-- **Substack**: (TBD)
-- **Medium**: (TBD)
+- **Substack**: https://csumit.substack.com/p/meghalaya-trip-reflections
+- **Medium**: https://medium.com/p/a36521b9e02b
 
 ## Origin Story
 - May 9–17, 2026: Family trip to Northeast India — Guwahati, Shillong, Cherrapunji, Dawki, Umiam Lake
@@ -29,7 +29,7 @@
 - Sleep
 
 ## Distribution
+- [x] Medium — https://medium.com/p/a36521b9e02b
+- [x] Substack — https://csumit.substack.com/p/meghalaya-trip-reflections
 - [ ] LinkedIn (primary — professional audience + flywheel angle)
-- [ ] Medium
-- [ ] Substack (csumit.substack.com)
 - [ ] Twitter/X thread
