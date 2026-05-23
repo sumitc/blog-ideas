@@ -10,17 +10,15 @@ Last week, our family headed to the Northeast — Guwahati, Shillong, Cherrapunj
 
 ## 🏔️ Part 1: A Trip About Making — and Reliving — Memories
 
-We started in **Guwahati** — and just the act of landing in the Northeast, knowing what lay ahead, had everyone buzzing. Our first stop: **Kamakhya Temple**, one of India's most powerful Shakti peethams, perched on Nilachal Hill. The energy was instantly palpable. And so were the goats — dozens of them, completely unbothered, roaming the temple complex like they owned the place.
+We started in **Guwahati** — and just the act of landing in the Northeast, knowing what lay ahead, had everyone buzzing. Our first stop: **Kamakhya Temple**, one of India's most powerful Shakti peeths, perched on Nilachal Hill. The energy was instantly palpable. And so were the goats — dozens of them, completely unbothered, roaming around the temple like they owned the place.
 
-If this trip had a heart, it was **Shillong** — because for my mother, it wasn't just a tourist destination. It was a time machine. She studied here and hadn't been back in **40 years**.
+If this trip had a heart, it was **Shillong** — because for my mother, it wasn't just a tourist destination. It was a time machine. She studied here and hadn't been back in **40 years**. We visited her old college. The building had new paint, but the steps were the same. She paused and showed they had their classes, where their principal room was and also peeked into her hostel rooms. 
 
-We visited her old college. The building had new paint, but the steps were the same. She stood there quietly for a moment and said, *"I used to sit right here and eat jhalmuri."* The kids didn't fully understand why that sentence made everyone's eyes a little wet. But they got quiet. They stayed still. That's how you know something matters.
+Beyond that deeply personal moment, the trip ushered lots of rain and numerous waterfalls and pristine places : the **Laitlum Canyons**; guided **Mawphlang Forest walk** where every leaf is protected by Khasis; **Nohkalikai Falls** the tallest plunge waterfall in India, and 4th in the world; and the **Living Root Bridge** — where 200+ year old tree roots have been trained into a living, *growing*, strengthening bridge. The kids enjoyed going down and up 1500 steps like it was nothing. My wife and I barely *survived*. Humbled doesn't quite cover it — but standing there - felt like the most earned moment of the trip.
 
-Beyond that deeply personal moment, the trip delivered: the ancient **Mawphlang Sacred Grove** where every leaf is protected by a centuries-old Khasi covenant with nature; **Nohkalikai Falls** where even my son — who narrates *everything* — went speechless for 30 full seconds; and the **Living Root Bridge** — where 500-year-old tree roots have been trained into a living, *growing*, strengthening bridge. While the world built from wood that rots and steel that rusts, the Khasi people grew something that only gets stronger with time. The kids bounded down like it was nothing. My wife and I *survived*. Barely. Humbled doesn't quite cover it — but standing on that bridge, breathless and slightly broken, felt like the most earned moment of the entire trip.
+Then there was **Dawki** — a place where Dhaka and India's ends meet. Travellers on both sides stared through the border, making me realize that these borders are largely human created - we all look the same. We then experienced pristine turqouise blue waters in **Krang Suri falls** and a fun boat ride in **Umiam lake** before heading back to Guwahati and back home in Hyderabad.
 
-Then there was **Dawki** — the Umngot River so crystal clear that boats look like they're floating on air. We stayed in a little cottage on the far bank, accessible only by crossing the river at dusk. The kids were thrilled. My wife was *cautiously* thrilled. My mom was busy documenting it all for the family WhatsApp group.
-
-But honestly? The moments I'll remember most weren't the viewpoints. They were the in-between ones — the kids doing homework at the hotel table while grandma helped, rainy evenings at Shillong's Police Bazar over steaming *jadoh*, lazy afternoon boating at Umiam Lake where nobody checked their phone and nobody suggested they should. Those moments don't make it into travel guides. But they're the ones you actually carry home.
+As I reflect back, there were these moments in-between — kids drawing at the hotel table with their grandma, rainy evenings at Shillong's Police Bazar over steamed momos, wifey and kids getting scared of lizards in the cottage rooms :) Those moments don't make it to travel guides, but become memories that we remember later.
 
 > 📷 *[IMAGE: family photo collage]*
 
@@ -28,15 +26,11 @@ But honestly? The moments I'll remember most weren't the viewpoints. They were t
 
 ## 🌐 Part 2: The Tourism Flywheel
 
-Something kept nagging at me as we drove through newly paved roads to freshly built viewpoints: **Meghalaya's tourism is running a flywheel. And it looks remarkably like Amazon's.**
-
-Bezos famously sketched it on a napkin — better experience → more traffic → more sellers → better selection → lower costs → even better experience. Once spinning, hard to stop.
+Something kept nagging at me as we drove through newly paved roads to freshly built viewpoints: **Meghalaya's tourism is running a flywheel. And it looks remarkably like Amazon's.** Bezos famously sketched it on a napkin — better experience → more traffic → more sellers → better selection → lower costs → even better experience. Once spinning, hard to stop.
 
 > 📷 *[IMAGE: Amazon flywheel diagram]*
 
-Meghalaya is doing the same thing, entirely by accident:
-
-**Pristine natural treasures exist → People visit → The internet amplifies everything** (that Dawki river photo goes viral, the Nongriat trek video hits a million views, and suddenly everyone's adding it to their bucket list) **→ More tourists arrive → Government invests in roads, trails, infrastructure → The experience gets even better → The flywheel spins faster.** 🔄
+Meghalaya is doing the same thing, entirely by accident: **Pristine natural treasures exist → People visit → The internet amplifies everything** (that Dawki river photo goes viral, the Nongriat trek video hits a million views, and suddenly everyone's adding it to their bucket list) **→ More tourists arrive → Government invests in roads, trails, infrastructure → The experience gets even better → The flywheel spins faster.** 🔄
 
 > 📷 *[IMAGE: Meghalaya tourism flywheel diagram]*
 
@@ -48,21 +42,17 @@ But the harder question it raises: *as the flywheel accelerates, how do you prot
 
 ## 😴 Part 3: The Bonus Nobody Planned
 
-I track my sleep — not obsessively, but enough to know the data is usually bad. I got a **[Gabit smart ring](https://amzn.to/49gf85Q)** as a birthday gift and have been wearing it since. Mostly it confirms what I already suspected.
+This year on my birthday, I got a **[Gabit smart ring](https://amzn.to/49gf85Q)** and I've been wearing it since. I track my sleep — not obsessively, but enough to know the data is usually bad. Mostly it confirms what I already suspected.
 
-When we left for Meghalaya on May 9th, my tracker showed: **7 hours 43 minutes of sleep debt. Status: Poor. Deficit.**
-
-The modern professional badge of dishonor. I'd been running on fumes and caffeine and optimism for months.
+When we left for Meghalaya on May 9th, my tracker showed: **7 hours 43 minutes of sleep debt. Status: Poor. Deficit.** The modern professional badge of dishonor. I'd been running on fumes and caffeine and optimism for months.
 
 Eight days later, on May 17th: **1 hour of sleep debt. Status: Excellent. Surplus.**
 
 > 📷 *[IMAGE: sleep tracker — before & after]*
 
-That's not just rest — that's *recovery*. What changed? No alarms. Mountain air. Exhaustion from actual physical activity (those 1,500 steps back up from the root bridge deserve full credit). Early dinners. Children who passed out early and actually stayed asleep. And the quiet that only comes when nobody's expecting you to reply.
+That's not just rest — that's *recovery*. What changed? No alarms. Mountain air. Exhaustion from actual physical activity (those 1,500 steps back up from the root bridge deserves full credit). Early dinners. Children who passed out early and actually stayed asleep. And the quiet that only comes when nobody's expecting you to reply.
 
-The consensus on sleep debt recovery is clear — you can't recoup chronic deprivation in a weekend. You need sustained, quality sleep over multiple nights. A *real* holiday. Not a "squeeze sightseeing between calls" trip, but an honest-to-goodness disconnection.
-
-Meghalaya gave me that. The mountains have their own timezone. And it turns out, it's the one my body was meant to be on.
+The consensus on sleep debt recovery is clear — you can't recoup chronic deprivation in a weekend. You need sustained, quality sleep over multiple nights. A *real* holiday. Not a "squeeze sightseeing between calls" trip, but an honest-to-goodness disconnection. Meghalaya gave me that. 
 
 If you're running a sleep deficit — and if you're in a demanding profession, you probably are — consider this your permission slip. The waterfalls will still be there. But your recovery window is finite.
 
