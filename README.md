@@ -16,6 +16,7 @@ Each folder is a self-contained blog project with:
 | 2026-04-20 | [Automating Plant Watering — Still Ever"green"](./2026-04-20-automated-plant-watering/) | DIY / Smart Home / IoT |
 | 2026-04-20 | [AI Tools: The New Equalizer](./2026-04-20-ai-tools-the-equalizer/) | AI / Product / Creativity |
 | 2026-04-20 | [Acquired — 25 Episodes in 2 Months!](./2026-04-20-acquired-25-episodes/) | Podcast / Tech / Learning |
+| 2026-06-19 | [How an IPO Really Works](./2026-06-19-how-an-ipo-really-works/) | Startup / Finance / IPOs |
 
 ## Workflow
 
