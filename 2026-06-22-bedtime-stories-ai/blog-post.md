@@ -1,4 +1,4 @@
-# How AI Helped Me Keep Bedtime Stories Alive After a Long Day
+# How AI Helped Me Keep Bedtime Stories Alive
 
 Some nights, the hardest part of the day isn’t the work — it’s the moment after it. You walk in tired, the kids are finally calm, and then comes the question every parent knows: “Tell us a bedtime story.” Most days, that request feels sweet. On the long days, it can feel like your imagination has already left the building.
 
