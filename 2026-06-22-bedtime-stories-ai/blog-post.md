@@ -6,10 +6,10 @@ That was the problem I kept running into. I wanted stories that felt fun, warm, 
 
 Along the way, I learned a few practical things that made the whole thing actually work — and that other parents could use to build something similar for their own kids:
 
-- Keep the original story structure intact, so the moral still lands naturally at the end.
-- Let the tools help with drafting and visuals, but keep a human hand on tone and bedtime-friendliness.
-- Store the story assets somewhere stable so the books stay fast and easy to load as the library grows.
-- Make the reading experience simple on every screen, because bedtime stories should feel easy, not technical.
+- Use a CLI-first workflow to draft, regenerate, and push stories quickly instead of hand-editing everything.
+- Parse the story structure cleanly — one para per page, one moral at the end — so the bedtime flow stays intact.
+- Keep text, images, and generated assets in stable storage so the library stays fast as it grows.
+- Generate image prompts from each paragraph, then use tools like ChatGPT and Gemini to create visuals that match the story beat.
 - Treat it like a living library you can keep growing for your own family — one more story, one more lesson, one more little delight.
 
 What surprised me most was how much value that brought back into the room. The stories became a small bedtime ritual, but also a bridge between generations — old lessons, reimagined with new tools, for a new audience. And for parents who are exhausted but still want to give their kids a little wonder at the end of the day, that matters. If you’ve ever run out of bedtime story ideas, maybe AI can help you find your next one. What moral would your kids love most at bedtime?
