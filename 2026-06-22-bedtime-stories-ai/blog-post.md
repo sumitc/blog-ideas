@@ -4,6 +4,8 @@ Some nights, the hardest part of the day isn’t the work — it’s the moment 
 
 That was the problem I kept running into. I wanted stories that felt fun, warm, and meaningful — the kind I grew up with, the kind that quietly carry a moral without sounding like homework. So I started using AI tools to help me build them: little picture books guided by a moral catalog, tailored for my kids at bedtime. Not as a replacement for parenting, but as a way to show up with something fresh when my own energy was running low.
 
+If you want to browse the full library, the books are live here: [sumitc.in/books](https://sumitc.in/books).
+
 Along the way, I learned a few practical things that made the whole thing actually work — and that other parents could use to build something similar for their own kids:
 
 - Use a CLI-first workflow so each story can move from idea → draft → assets → publish without manual copy-paste.
