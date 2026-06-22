@@ -6,10 +6,12 @@ That was the problem I kept running into. I wanted stories that felt fun, warm, 
 
 Along the way, I learned a few practical things that made the whole thing actually work — and that other parents could use to build something similar for their own kids:
 
-- Use a CLI-first workflow to draft, regenerate, and push stories quickly instead of hand-editing everything.
-- Parse the story structure cleanly — one para per page, one moral at the end — so the bedtime flow stays intact.
-- Keep text, images, and generated assets in stable storage so the library stays fast as it grows.
-- Generate image prompts from each paragraph, then use tools like ChatGPT and Gemini to create visuals that match the story beat.
+- Use a CLI-first workflow so each story can move from idea → draft → assets → publish without manual copy-paste.
+- Keep the story arc tight: one clear world, one small problem, 2–3 attempts, then one moral landing at the end.
+- Make every page do one job: one paragraph, one scene, one emotion, and one image prompt that mirrors the beat.
+- Store text, prompts, and generated images in durable storage so the library stays fast, portable, and easy to grow.
+- Keep character details consistent across pages, so the same rabbit, fish, or prince looks and feels like the same character every time.
+- Treat image generation as a prompt pipeline: build prompts from the paragraph, then use tools like ChatGPT and Gemini to turn them into matching visuals.
 - Treat it like a living library you can keep growing for your own family — one more story, one more lesson, one more little delight.
 
 What surprised me most was how much value that brought back into the room. The stories became a small bedtime ritual, but also a bridge between generations — old lessons, reimagined with new tools, for a new audience. And for parents who are exhausted but still want to give their kids a little wonder at the end of the day, that matters. If you’ve ever run out of bedtime story ideas, maybe AI can help you find your next one. What moral would your kids love most at bedtime?
