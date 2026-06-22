@@ -6,6 +6,8 @@ That was the problem I kept running into. I wanted stories that felt fun, warm, 
 
 If you want to browse the full library, the books are live here: [sumitc.in/books](https://sumitc.in/books).
 
+We published 24 books yesterday — and honestly, that still feels a little wild.
+
 Along the way, I learned a few practical things that made the whole thing actually work — and that other parents could use to build something similar for their own kids:
 
 - Use a CLI-first workflow so each story can move from idea → draft → assets → publish without manual copy-paste.
