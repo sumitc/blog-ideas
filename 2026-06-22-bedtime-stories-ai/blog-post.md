@@ -7,12 +7,10 @@ That was the problem I kept running into. I wanted stories that felt fun, warm, 
 Along the way, I learned a few practical things that made the whole thing actually work — and that other parents could use to build something similar for their own kids:
 
 - Use a CLI-first workflow so each story can move from idea → draft → assets → publish without manual copy-paste.
-- Start from a moral catalog, then pick the lesson first and build the story around that — not the other way around.
-- Once the moral is chosen, shape the storyline into a tight arc: one clear world, one small problem, 2–3 attempts, then one moral landing at the end.
+- Start from a moral catalog, then choose the lesson first and shape the story around it with a tight arc: one world, one problem, 2–3 attempts, one landing.
 - Make every page do one job: one paragraph, one scene, one emotion, and one image prompt that mirrors the beat.
 - Treat image generation as a prompt pipeline: build prompts from each paragraph, then use tools like ChatGPT and Gemini to turn them into matching visuals.
-- Store text, prompts, and generated images in durable, hostable storage so the library stays fast, portable, and easy to reference later.
-- Treat it like a living library you can keep growing for your own family — one more story, one more lesson, one more little delight.
+- Store text, prompts, and generated images in durable, hostable storage so the library stays fast, portable, and easy to reference later — and keep growing it like a living family library.
 
 What surprised me most was how much value that brought back into the room. The stories became a small bedtime ritual, but also a bridge between generations — old lessons, reimagined with new tools, for a new audience. And for parents who are exhausted but still want to give their kids a little wonder at the end of the day, that matters. If you’ve ever run out of bedtime story ideas, maybe AI can help you find your next one. What moral would your kids love most at bedtime?
 
