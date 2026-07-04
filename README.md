@@ -17,6 +17,7 @@ Each folder is a self-contained blog project with:
 | 2026-04-20 | [AI Tools: The New Equalizer](./2026-04-20-ai-tools-the-equalizer/) | AI / Product / Creativity |
 | 2026-04-20 | [Acquired — 25 Episodes in 2 Months!](./2026-04-20-acquired-25-episodes/) | Podcast / Tech / Learning |
 | 2026-06-19 | [How an IPO Really Works](./2026-06-19-how-an-ipo-really-works/) | Startup / Finance / IPOs |
+| 2026-07-05 | [From Idea to Play Store: How I Used Copilot CLI to Ship My First Android App](./2026-07-05-from-idea-to-play-store-copilot-cli/) | AI / Android / Startup |
 
 ## Workflow
 
