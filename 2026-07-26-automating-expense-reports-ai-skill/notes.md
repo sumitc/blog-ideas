@@ -1,5 +1,8 @@
 # Notes: How I Taught an AI Agent to Do My Expense Reports — And Reclaimed My Sunday Evenings
 
+## Published Links
+- **Substack**: https://csumit.substack.com/p/expense-report-submission-automated
+
 ## Source Material
 - Skill file: `/Users/sumitc/Downloads/expense filing/SKILL.md` (`expense-receipt-attach`)
 - Narrative draft: `/Users/sumitc/Downloads/expense filing/the-story.md`
