@@ -4,7 +4,7 @@ The flight lands, the bag finally comes off the carousel, and somewhere in your 
 
 For most of us, the expense report is the sad, tedious epilogue to every work trip — the chore that waits until the reminder email turns red, then eats a Sunday evening of squinting at line items and re-uploading PDFs to the wrong slot twice.
 
-A few weeks ago, after returning from a busy trip to Redmond, I decided I’d had enough. Instead of spending an hour on manual data entry, I built a custom CLI skill (`expense-receipt-attach`) that turns the entire process over to an AI agent.
+A few weeks ago, after returning from a busy trip to Redmond, I decided I’d had enough. Instead of spending an hour on manual data entry, I built a custom CLI skill (`expense-receipt-attach`) that turns the entire process over to an AI agent. You can [download the complete sanitized skill package and scripts here](https://github.com/sumitc/blog-ideas/blob/main/2026-07-26-automating-expense-reports-ai-skill/expense-receipt-attach-skill.zip).
 
 Here is how it works, how I built it, and what it taught me about the real value of agentic automation.
 
