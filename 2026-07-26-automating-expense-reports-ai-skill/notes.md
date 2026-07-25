@@ -3,7 +3,7 @@
 ## Source Material
 - Skill file: `/Users/sumitc/Downloads/expense filing/SKILL.md` (`expense-receipt-attach`)
 - Narrative draft: `/Users/sumitc/Downloads/expense filing/the-story.md`
-- Skill Package ZIP: `expense-receipt-attach-skill.zip` (https://lr6u2dz0s8q88vi8.public.blob.vercel-storage.com/downloads/expense-receipt-attach-skill.zip)
+- Skill Package ZIP: `expense-receipt-attach-skill.zip` (https://sumitc.in/download/expense-skill)
 
 ## Key Storyline
 1. **Personal Moment**: Post-trip receipt friction (crumpled bills, Uber emails, Dynamics 365 F&O expense reports).
