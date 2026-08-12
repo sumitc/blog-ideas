@@ -2,23 +2,9 @@
 
 If you want an AI model to do one very specific job well, LoRA starts to look less like a clever trick and more like a practical superpower.
 
-That was the lesson from my recent LoRA journey. I wasn’t trying to build a general chat model. I wanted a small on-device system that could turn natural-language prompts into wallpaper concepts and structured generation prompts, without a cloud call and without shipping a giant model every time I learned something new.
+That was the lesson from my recent LoRA journey. I wanted a small on-device system that could turn natural-language prompts into wallpaper concepts and structured generation prompts, without a cloud call and without shipping a giant model every time I learned something new.
 
 [image: lora-overall-concept.png]
-
-## Why LoRA made sense
-
-The core idea is simple: freeze the base model, then train tiny adapter layers on top. Instead of updating every weight in a huge model, you teach a small side path to specialize for one task.
-
-That matters when the job is narrow. For me, the task was turning prompts like “sunset over a rainy city skyline” or “minimal neon astronaut wallpaper” into clean structured instructions that my app could use directly.
-
-I considered a few model families, including Microsoft Foundry options. Microsoft Mu looked like the ideal direction, but it was blocked by runtime and weight availability constraints. The Phi models were good, but too heavy for the “runs on a laptop” requirement.
-
-In the end, I chose **Qwen2.5-0.5B-Instruct** because it was small, instruction-tuned, and had downloadable weights that worked with the LoRA tooling I already needed.
-
-My LoRA config was simple and practical: `r=8`, `alpha=16`, and target modules `q_proj, k_proj, v_proj, o_proj`. That kept the adapter tiny while still giving the model enough room to learn the structured-output behavior I wanted.
-
-[image: lora-foundry-vs-qwen-selection.png]
 
 ## LoRA in plain English
 
@@ -32,6 +18,18 @@ That makes it useful anywhere you want specialization without a full retrain:
 - on-device task specialists like classifiers, formatters, or prompt routers
 
 The practical appeal is simple: you get a small adapter, faster iteration, and a way to swap behaviors without shipping a new full model every time.
+
+## Why it fit this project
+
+That makes LoRA a good fit for the task: prompts like “sunset over a rainy city skyline” or “minimal neon astronaut wallpaper” needed to become clean structured instructions that my app could use directly.
+
+I considered a few model families, including Microsoft Foundry options. Microsoft Mu looked like the ideal direction, but it was blocked by runtime and weight availability constraints. The Phi models were good, but too heavy for the “runs on a laptop” requirement.
+
+In the end, I chose **Qwen2.5-0.5B-Instruct** because it was small, instruction-tuned, and had downloadable weights that worked with the LoRA tooling I already needed.
+
+My LoRA config was simple and practical: `r=8`, `alpha=16`, and target modules `q_proj, k_proj, v_proj, o_proj`. That kept the adapter tiny while still giving the model enough room to learn the structured-output behavior I wanted.
+
+[image: lora-foundry-vs-qwen-selection.png]
 
 ## What the first versions taught me
 
@@ -95,9 +93,7 @@ node eval/run-v4-eval.mjs
 node eval/fold-audit.mjs
 ```
 
-If you want GPU training later, the main shift is swapping in the CUDA wheel for PyTorch and moving the batch size up. The rest of the workflow stays the same.
-
-If you have a stronger machine, the setup gets more flexible:
+If you have a stronger machine, the setup gets more flexible: swap in the CUDA wheel for PyTorch, move to a bigger base if you have the RAM or VRAM, and use QLoRA or Unsloth if you want faster training on supported hardware.
 
 ```bash
 # larger models with QLoRA / GPU support
@@ -110,7 +106,7 @@ uv pip install torch --index-url https://download.pytorch.org/whl/cu121
 uv pip install unsloth
 ```
 
-The general rule is: if you have a stronger machine, you can move up a model tier, but the same LoRA idea still applies. Bigger machines give you more room; they don’t change the core tradeoff.
+The general rule is: stronger machines let you move up a model tier, but the same LoRA idea still applies. Bigger machines give you more room; they don’t change the core tradeoff.
 
 ## What I’d tell someone building their own LoRA project
 
