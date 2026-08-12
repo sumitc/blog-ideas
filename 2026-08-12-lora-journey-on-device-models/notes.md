@@ -1,5 +1,8 @@
 # Notes: What My LoRA Journey Taught Me About Building On-Device Models That Actually Work
 
+## Published Links
+- Substack: https://csumit.substack.com/p/lora-tune-your-own-model-for-on-device
+
 ## Core story
 - Personal moment: wanting a local model that can turn natural-language prompts into structured wallpaper-generation instructions.
 - Big decision: choose a small instruction-tuned base model that supports downloadable weights.
