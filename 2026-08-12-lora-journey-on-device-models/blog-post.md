@@ -4,17 +4,15 @@ If you want an AI model to do one very specific job well, LoRA starts to look le
 
 That was the lesson from my recent LoRA journey. I wanted a small on-device system that could turn natural-language prompts into wallpaper concepts and structured generation prompts, without a cloud call and without shipping a giant model every time I learned something new.
 
-[image: lora-overall-concept.png]
-
-## 1) The need — why I reached for LoRA
-
 That kind of task is narrow, which is exactly where LoRA starts to make sense. You want one behavior to get much better without turning the whole model into a new product.
 
 I considered a few model families, including Microsoft Foundry options. Microsoft Mu looked like the ideal direction, but it was blocked by runtime and weight availability constraints. The Phi models were good, but too heavy for the “runs on a laptop” requirement.
 
 In the end, I chose **Qwen2.5-0.5B-Instruct** because it was small, instruction-tuned, and had downloadable weights that worked with the LoRA tooling I already needed.
 
-## 2) The concept — what LoRA actually does
+[image: lora-overall-concept.png]
+
+## 1) The concept — what LoRA actually does
 
 LoRA, or Low-Rank Adaptation, works by freezing the base model and training tiny side matrices instead of the whole network. The base model keeps its general knowledge; the adapter learns the new task.
 
@@ -31,7 +29,7 @@ My LoRA config was simple and practical: `r=8`, `alpha=16`, and target modules `
 
 [image: lora-foundry-vs-qwen-selection.png]
 
-## 3) Setup — the practical starting point
+## 2) Setup — the practical starting point
 
 If you want to reproduce the workflow or adapt it for your own use case, here’s the path I’d recommend:
 
@@ -80,7 +78,7 @@ uv pip install unsloth
 
 The general rule is: stronger machines let you move up a model tier, but the same LoRA idea still applies. Bigger machines give you more room; they don’t change the core tradeoff.
 
-## 4) Training — where the real improvement came from
+## 3) Training — where the real improvement came from
 
 v1 was mostly proof that the setup worked at all. It showed that I could train a small model on-device and get the basic output shape right.
 
@@ -102,7 +100,7 @@ v4 pushed labeled coverage from **61% to 96.9%**, reduced eval loss, and doubled
 
 [image: lora-corpus-coverage-chart.png]
 
-## 5) Evals — how I knew the fix worked
+## 4) Evals — how I knew the fix worked
 
 The evaluation layer mattered because it told me exactly what to improve.
 
@@ -115,7 +113,7 @@ v4 proved the data fix actually generalized.
 
 If the model was just getting better at memorizing the training distribution, the loss might have improved without the fuzzy score moving. Instead, both moved in the right direction, which was the real signal.
 
-## 6) Learnings & tips for bigger setups
+## 5) Learnings & tips for bigger setups
 
 1. Start with a narrow task.
 2. Pick the smallest base model that still respects your output format.
