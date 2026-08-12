@@ -19,6 +19,7 @@ Each folder is a self-contained blog project with:
 | 2026-06-19 | [How an IPO Really Works](./2026-06-19-how-an-ipo-really-works/) | Startup / Finance / IPOs |
 | 2026-07-05 | [From Idea to Play Store: How I Used Copilot CLI to Ship My First Android App](./2026-07-05-from-idea-to-play-store-copilot-cli/) | AI / Android / Startup |
 | 2026-07-26 | [How I Taught an AI Agent to Do My Expense Reports](./2026-07-26-automating-expense-reports-ai-skill/) | AI / Automation / Productivity |
+| 2026-08-12 | [What My LoRA Journey Taught Me About Building On-Device Models That Actually Work](./2026-08-12-lora-journey-on-device-models/) | AI / Machine Learning / Learning |
 
 ## Workflow
 
