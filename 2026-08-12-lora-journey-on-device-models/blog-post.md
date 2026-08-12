@@ -2,13 +2,13 @@
 
 If you want an AI model to do one very specific job well, LoRA starts to look less like a clever trick and more like a practical superpower.
 
-That was the lesson from my recent LoRA journey. I wanted a small on-device system that could turn natural-language prompts into wallpaper concepts and structured generation prompts, without a cloud call and without shipping a giant model every time I learned something new.
-
-That kind of task is narrow, which is exactly where LoRA starts to make sense. You want one behavior to get much better without turning the whole model into a new product.
+I wanted a small on-device system that could turn natural-language prompts into wallpaper concepts and structured generation prompts, without a cloud call and without shipping a giant model every time I learned something new.
 
 I considered a few model families, including Microsoft Foundry options. Microsoft Mu looked like the ideal direction, but it was blocked by runtime and weight availability constraints. The Phi models were good, but too heavy for the “runs on a laptop” requirement.
 
 In the end, I chose **Qwen2.5-0.5B-Instruct** because it was small, instruction-tuned, and had downloadable weights that worked with the LoRA tooling I already needed.
+
+Here’s the flow below: **concept → setup → training → evals → learnings & tips for bigger setups**.
 
 [image: lora-overall-concept.png]
 
