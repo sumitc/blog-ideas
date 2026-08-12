@@ -8,7 +8,7 @@ I considered a few model families, including Microsoft Foundry options. Microsof
 
 In the end, I chose **Qwen2.5-0.5B-Instruct** because it was small, instruction-tuned, and had downloadable weights that worked with the LoRA tooling I already needed.
 
-Here’s the flow below: **concept → setup → training → evals → learnings & tips for bigger setups**.
+Below, I walk through the concept, the setup, the training loop, the evals, and what I’d recommend if you want to apply this on a bigger machine.
 
 [image: lora-overall-concept.png]
 
