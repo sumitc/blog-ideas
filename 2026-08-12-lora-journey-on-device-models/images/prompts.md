@@ -35,4 +35,3 @@
 - Goal: show the loss improvement alongside the behavior metric.
 - Style: clean bar or line chart.
 - Show: v3 0.071 vs v4 0.060.
-

@@ -1,7 +1,7 @@
 # Notes: What My LoRA Journey Taught Me About Building On-Device Models That Actually Work
 
 ## Core story
-- Personal moment: wanting a local model that can turn natural-language prompts into structured JSON for a widget.
+- Personal moment: wanting a local model that can turn natural-language prompts into structured wallpaper-generation instructions.
 - Big decision: choose a small instruction-tuned base model that supports downloadable weights.
 - Key learning: the main bottleneck was not the adapter; it was label coverage in the training data.
 - Final takeaway: fix data first, then use evals to prove the improvement.
@@ -30,4 +30,3 @@
 
 ## Tags
 #ArtificialIntelligence #MachineLearning #LLM #DevTools #Learning
-

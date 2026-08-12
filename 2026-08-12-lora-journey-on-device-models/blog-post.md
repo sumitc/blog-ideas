@@ -2,7 +2,7 @@
 
 If you want an AI model to do one very specific job well, LoRA starts to look less like a clever trick and more like a practical superpower.
 
-That was the lesson from my recent LoRA journey. I wasn’t trying to build a general chat model. I wanted a small on-device system that could turn natural-language prompts into structured JSON for a widget, without a cloud call and without shipping a giant model every time I learned something new.
+That was the lesson from my recent LoRA journey. I wasn’t trying to build a general chat model. I wanted a small on-device system that could turn natural-language prompts into wallpaper concepts and structured generation prompts, without a cloud call and without shipping a giant model every time I learned something new.
 
 [image: lora-overall-concept.png]
 
@@ -10,7 +10,7 @@ That was the lesson from my recent LoRA journey. I wasn’t trying to build a ge
 
 The core idea is simple: freeze the base model, then train tiny adapter layers on top. Instead of updating every weight in a huge model, you teach a small side path to specialize for one task.
 
-That matters when the job is narrow. For me, the task was structured intent extraction: prompts like “weather in Delhi” or “AAPL stock price” needed to come back as clean JSON that my app could use directly.
+That matters when the job is narrow. For me, the task was turning prompts like “sunset over a rainy city skyline” or “minimal neon astronaut wallpaper” into clean structured instructions that my app could use directly.
 
 I considered a few model families, including Microsoft Foundry options. Microsoft Mu looked like the ideal direction, but it was blocked by runtime and weight availability constraints. The Phi models were good, but too heavy for the “runs on a laptop” requirement.
 
@@ -28,7 +28,7 @@ But then the real work started.
 
 v2 gave me a first repeatable gold set: 41 cases. That turned the project from “feels okay” into “measurable.”
 
-v3 added a harder test: fuzzy vocab strictness. That was the moment the model started revealing its actual weakness. It could still produce valid JSON, but on unseen prompts it invented field names that sounded right and were semantically close — but weren’t part of the closed vocabulary my renderer understood.
+v3 added a harder test: fuzzy vocab strictness. That was the moment the model started revealing its actual weakness. It could still produce valid JSON, but on unseen prompts it invented field names that sounded right and were semantically close — but weren’t part of the closed vocabulary my wallpaper pipeline understood.
 
 [image: lora-v1-v4-timeline.png]
 [image: lora-fuzzy-strictness-chart.png]
@@ -57,12 +57,12 @@ cd training
 uv sync
 
 # serve the shipped adapter
-uv run python serve.py --port 8091 --adapter output/qwen-widget-lora-v4/final
+uv run python serve.py --port 8091 --adapter output/<your-adapter-name>/final
 
 # sanity-check the model
 curl -X POST http://localhost:8091/generate \
   -H "Content-Type: application/json" \
-  -d '{"prompt":"weather in Delhi"}'
+  -d '{"prompt":"cinematic wallpaper of a neon-lit mountain road at dusk"}'
 
 # from the app side
 cd ..
@@ -97,7 +97,7 @@ That last one matters more than it sounds. A fine-tune can look broken if the SY
 
 For me, LoRA wasn’t just a cheaper way to fine-tune. It was the thing that made the whole system small enough to ship and specific enough to be useful.
 
-If your use case is a domain assistant, a formatter, a classifier, or any other narrow task where reliable structure matters, LoRA is worth a serious look.
+If your use case is a wallpaper generator, a domain assistant, a formatter, a classifier, or any other narrow task where reliable structure matters, LoRA is worth a serious look.
 
 **What would you try first with a small LoRA adapter?**
 
