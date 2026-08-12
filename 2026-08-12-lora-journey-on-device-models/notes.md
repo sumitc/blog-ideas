@@ -6,6 +6,12 @@
 - Key learning: the main bottleneck was not the adapter; it was label coverage in the training data.
 - Final takeaway: fix data first, then use evals to prove the improvement.
 
+## Broader LoRA angle to include
+- Plain-English LoRA explanation: frozen base + tiny trainable adapters.
+- Common use cases: domain assistants, style transfer, company knowledge, on-device task specialists.
+- Better-machine options: larger base models, QLoRA, CUDA/PyTorch, and faster tooling like Unsloth.
+- Goal framing: pick the smallest model that still respects the output format and the deployment target.
+
 ## Source material
 - HTML concept/architecture brief: `/Users/sumitc/Downloads/lora-foundry-and-setup.html`
 - HTML iteration/eval brief: `/Users/sumitc/Downloads/lora-v1-to-v4-evolution.html`

@@ -20,6 +20,19 @@ My LoRA config was simple and practical: `r=8`, `alpha=16`, and target modules `
 
 [image: lora-foundry-vs-qwen-selection.png]
 
+## LoRA in plain English
+
+LoRA, or Low-Rank Adaptation, works by freezing the base model and training tiny side matrices instead of the whole network. The base model keeps its general knowledge; the adapter learns the new task.
+
+That makes it useful anywhere you want specialization without a full retrain:
+
+- domain-specific assistants for legal, medical, or support flows
+- style imitation for a particular brand voice or writing tone
+- company knowledge retrieval or structured extraction
+- on-device task specialists like classifiers, formatters, or prompt routers
+
+The practical appeal is simple: you get a small adapter, faster iteration, and a way to swap behaviors without shipping a new full model every time.
+
 ## What the first versions taught me
 
 v1 was mostly proof that the setup worked at all. It showed that I could train a small model on-device and get the basic output shape right.
@@ -83,6 +96,21 @@ node eval/fold-audit.mjs
 ```
 
 If you want GPU training later, the main shift is swapping in the CUDA wheel for PyTorch and moving the batch size up. The rest of the workflow stays the same.
+
+If you have a stronger machine, the setup gets more flexible:
+
+```bash
+# larger models with QLoRA / GPU support
+uv pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# try a bigger base if you have the RAM/VRAM
+# Llama-3.2-1B-Instruct, Phi-2, Phi-3-mini, or even a 7B class model with QLoRA
+
+# faster training on supported hardware
+uv pip install unsloth
+```
+
+The general rule is: if you have a stronger machine, you can move up a model tier, but the same LoRA idea still applies. Bigger machines give you more room; they don’t change the core tradeoff.
 
 ## What I’d tell someone building their own LoRA project
 
